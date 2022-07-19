@@ -1,0 +1,5 @@
+app:
+  port: 6767
+
+discord:
+  url: https://discord.com/api/webhooks/xxxxxxxxxxxxxxxxxxxxxxx
